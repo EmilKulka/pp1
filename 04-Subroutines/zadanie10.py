@@ -5,7 +5,7 @@ def read_number():
 x = read_number()
 y = read_number()
 
-print(f'Sum of the numbers {x} i {y} is: {x + y}')
+print(f'Sum of the numbers {x} and {y} is: {x + y}')
     
     
       
