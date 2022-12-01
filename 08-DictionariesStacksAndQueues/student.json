@@ -1,0 +1,14 @@
+{
+   "Name": "Emil",
+   "Surname": "Kulka",
+   "Age": 19,
+   "Active student": true,
+   "Interests": {
+      "Sport's": "Bastketball",
+      "Computer games": "Mostly FPS games"
+   },
+   "Course": [
+      "Programming basics",
+      "Business English B2"
+   ]
+}
