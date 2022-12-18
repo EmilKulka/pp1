@@ -1,10 +1,7 @@
 arr = [[1, 2 ,3 ,4], [5, 6, 7, 8]]
 
-for i in arr:
-    for j in i:
-        print(j, end=" ")
-        
-for i in arr:
-    for j in i:
-        end = " "
-        print(j)
+for i in range(0,len(arr)):
+    a = arr[i]
+    for j in range(0,len(a)):
+        print(arr[i][j],end= " ")
+        print("\n")
